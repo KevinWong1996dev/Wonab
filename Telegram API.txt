@@ -1,0 +1,4 @@
+api_id: 37564749
+api_hash:9ebd49653794765604200fff35817b1a
+Tittle: Wonab Dropshipping
+Short name: Wonab

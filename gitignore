@@ -1,0 +1,4 @@
+canales_admin.json
+.env
+*.session
+*.session-journal
